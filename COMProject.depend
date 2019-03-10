@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1503057573 source:d:\code sources\comproject\main.cpp
+	<iostream>
+	<string>
+	<ctime>
+	<stdio.h>
+	<assert.h>
+	<stdlib.h>
+	"TSerial/TSerial.h"
+
+1502376079 d:\code sources\comproject\tserial\tserial.h
+	<stdio.h>
+	<windows.h>
+
+1502376068 source:d:\code sources\comproject\tserial\tserial.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<process.h>
+	<conio.h>
+	<windows.h>
+	"Tserial.h"
+
